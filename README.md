@@ -92,9 +92,9 @@ Key insights from EDA:
 
 📊 Example Plots (all images in repo):  
 
-- ![Target Distribution](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/target_distribution.png)  
-- ![Correlation Heatmap](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/correlation_heatmap.png)  
-- ![Rain Probability by Month](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/rain_probability.png)  
+[Correlation Heatmap](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Correlation%20HeatMap.png)                           [Feature Importance](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Feature%20Importance.png)                         [Model Comparison](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Model%20Comparison.png)                              [Pairwise Views](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Pairwise%20views.png)                                            [Rain Probability](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Rain%20Probability.png)                                                [Target Distribution](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/4e67bb559c26cc1760e5ed444b3e1adad0b1a292/Images/Target%20Distribution.png)
+
+
 
 ---
 
