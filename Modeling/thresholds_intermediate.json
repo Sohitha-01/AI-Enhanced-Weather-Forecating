@@ -1,0 +1,5 @@
+{
+  "LogisticRegression_fixed": 0.6003556891054338,
+  "RandomForest_fixed": 0.3248666606163031,
+  "XGBoost_fixed": 0.31195375323295593
+}
