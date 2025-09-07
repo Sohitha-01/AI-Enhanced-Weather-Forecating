@@ -91,9 +91,10 @@ Key insights from EDA:
 - Seasonal effects observed: rain is more likely in mid-year months.  
 
 📊 Example Plots (all images in repo):  
-- [Target Distribution](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/tree/bed6f6edbfbf77ce472eb479b7bbfff618392dd9/Images)  
-- Correlation Heatmap  
-- Rain Probability by Month  
+
+- ![Target Distribution](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/target_distribution.png)  
+- ![Correlation Heatmap](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/correlation_heatmap.png)  
+- ![Rain Probability by Month](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/main/Images/rain_probability.png)  
 
 ---
 
