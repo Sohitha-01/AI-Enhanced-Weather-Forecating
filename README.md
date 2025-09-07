@@ -9,8 +9,6 @@ By combining statistical insights and modern ML models, this project answers que
 - *Which weather factors (temperature, humidity, pressure, etc.) are most influential?*  
 - *Which model performs best for this classification task?*  
 
-📄 **Full Report (PDF):** [AI_Enhanced_Weather_Forecasting.pdf](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/c20508bb0b4c36e308f91377518da3dae3512f0b/Report/AI_Enhanced_Weather_Forecasting.pdf)  
-
 ---
 
 ## 📑 Table of Contents  
@@ -147,7 +145,9 @@ A few key plots (see `Images/` for all):
 - 🌧️ Rain prediction achieved with **85% accuracy and 0.91 ROC-AUC**.  
 - 🌡️ **Humidity at 3PM** was the most influential feature.  
 - 📊 Seasonal & geographic patterns strongly affect rainfall.  
-- 🚀 Successfully deployed a **live interactive app** for predictions.  
+- 🚀 Successfully deployed a **live interactive app** for predictions.
+
+📄 **Full Report (PDF):** [AI_Enhanced_Weather_Forecasting.pdf](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating/blob/c20508bb0b4c36e308f91377518da3dae3512f0b/Report/AI_Enhanced_Weather_Forecasting.pdf)  
 
 ---
 
