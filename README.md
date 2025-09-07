@@ -133,12 +133,11 @@ Deployed version hosted on **Streamlit Cloud** for public access.
 ## 📊 Visualizations  
 A few key plots (see `Images/` for all):  
 
-- **Target Distribution**: Shows class imbalance (only 22% rainy days).  
+- **Target Distribution**: Distribution of the target variable `RainTomorrow`. Only ~22% of days had rain the next day. 
 - **Correlation Heatmap**: Highlights strongest relationships (humidity, pressure).  
 - **Rain Probability by Month**: Peaks in June–July, dips in October.  
-- **Feature Importance**: Humidity, Rainfall, and Sunshine are most predictive.  
+- **Feature Importance**: Highlights the most important predictors for rainfall. 
 - **Model Comparison**: XGBoost outperforms others.  
-- **Streamlit App Screenshot**: User inputs today’s weather → prediction for tomorrow.  
 
 ---
 
